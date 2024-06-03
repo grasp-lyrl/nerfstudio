@@ -3,7 +3,7 @@
 This is the implementation of [From NeRFs to Gaussian Splats, and Back](https://arxiv.org/abs/2405.09717); An efficient procedure to convert back and forth between NeRF and GS, and thereby get the best of both approaches. New dataset in the paper can be downloaded from [this google drive link](https://drive.google.com/drive/folders/1xvbONL4EVgHxaHMsV101455l_jNgyaUM?usp=sharing). The official code can be found [here](https://github.com/grasp-lyrl/NeRFtoGSandBack).
 
 <video id="teaser" muted autoplay playsinline loop controls width="100%">
-    <source id="mp4" src="https://github.com/grasp-lyrl/NeRFtoGSandBack/assets/Giannini_demo_compressed.mp4" type="video/mp4">
+    <source id="mp4" src="https://github.com/grasp-lyrl/NeRFtoGSandBack/assets/69362937/7f1d8f55-79f4-4090-9ba7-f5d1b9a17edb" type="video/mp4">
 </video>
 
 ## Installation
